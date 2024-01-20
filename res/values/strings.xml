@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CPMS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_loginpage">Loginpage</string>
+    <string name="title_activity_studentregistration">Studentregistration</string>
+    <string name="title_activity_hodregistration">HODregistration</string>
+    <string name="title_activity_inchargeregistration">Inchargeregistration</string>
+    <string name="title_activity_guideregistration">Guideregistration</string>
+    <string name="title_activity_adminhome">Adminhome</string>
+    <string name="title_activity_studenthome">Studenthome</string>
+    <string name="title_activity_hodhome">HODhome</string>
+    <string name="title_activity_inchargehome">Inchargehome</string>
+    <string name="title_activity_guidehome">Guidehome</string>
+    <string name="title_activity_add_project">AddProject</string>
+
+</resources>
